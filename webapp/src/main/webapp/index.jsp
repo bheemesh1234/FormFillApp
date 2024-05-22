@@ -9,7 +9,7 @@
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 	
-    <label for="adhaar"><b>Email</b></label>
+    <label for="adhaar"><b>Adhaar</b></label>
     <input type="text" placeholder="Enter Adhaar" name="adhaar" id="adhaar" required>
     <br>
 
