@@ -13,6 +13,9 @@
     <input type="text" placeholder="Enter Nick Name" name="name" id="name" required>
     <br>
 
+    <label for="mother name"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Mother Name" name="name" id="name" required>
+    <br>
 
     <label for="father name"><b>Father Name</b></label>
     <input type="text" placeholder="Enter Father Name" name="name" id="name" required>
