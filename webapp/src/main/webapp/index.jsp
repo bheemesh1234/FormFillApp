@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter Adhaar" name="adhaar" id="adhaar" required>
     <br>
 
+    <label for="pan"><b>PAN</b></label>
+    <input type="text" placeholder="Enter PAN" name="PAN" id="PAN" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
