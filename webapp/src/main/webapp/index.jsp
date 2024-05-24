@@ -20,6 +20,10 @@
     <label for="father name"><b>Father Name</b></label>
     <input type="text" placeholder="Enter Father Name" name="name" id="name" required>
     <br>
+    
+    <label for="sister name"><b>Sister Name</b></label>
+    <input type="text" placeholder="Enter Sister Name" name="name" id="name" required>
+    <br>
 
    <label for="adhaar"><b>Adhaar</b></label>
     <input type="text" placeholder="Enter Adhaar" name="adhaar" id="adhaar" required>
