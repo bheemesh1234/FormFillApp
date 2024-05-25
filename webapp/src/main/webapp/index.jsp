@@ -25,6 +25,11 @@
     <input type="text" placeholder="Enter Sister Name" name="name" id="name" required>
     <br>
 
+    <label for="spouce name"><b>Spouce Name</b></label>
+    <input type="text" placeholder="Enter Spouce Name" name="name" id="name" required>
+    <br>
+
+
    <label for="adhaar"><b>Adhaar</b></label>
     <input type="text" placeholder="Enter Adhaar" name="adhaar" id="adhaar" required>
     <br>
