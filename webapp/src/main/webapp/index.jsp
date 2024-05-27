@@ -17,6 +17,10 @@
     <input type="text" placeholder="Enter Adhaar Number" name="adhaar" id="adhaar" required>
     <br>
 
+    <label for="pan"><b>PAN Number</b></label>
+    <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
