@@ -17,6 +17,10 @@
     <input type="text" placeholder="Enter Mother Name" name="name" id="name" required>
     <br>
 
+    <label for="name"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="name" id="name" required>
+    <br>
+
     <label for="adhaar"><b>Adhaar Number</b></label>
     <input type="text" placeholder="Enter Adhaar Number" name="adhaar" id="adhaar" required>
     <br>
