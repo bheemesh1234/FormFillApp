@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter Nick Name" name="name" id="name" required>
     <br>
 
+    <label for="name"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Mother Name" name="name" id="name" required>
+    <br>
+
     <label for="adhaar"><b>Adhaar Number</b></label>
     <input type="text" placeholder="Enter Adhaar Number" name="adhaar" id="adhaar" required>
     <br>
