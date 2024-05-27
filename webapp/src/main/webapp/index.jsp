@@ -29,6 +29,10 @@
     <input type="text" placeholder="Enter Sister Name" name="name" id="name" required>
     <br>
 
+    <label for="name"><b>Son Name</b></label>
+    <input type="text" placeholder="Enter Son Name" name="name" id="name" required>
+    <br>
+
     <label for="adhaar"><b>Adhaar Number</b></label>
     <input type="text" placeholder="Enter Adhaar Number" name="adhaar" id="adhaar" required>
     <br>
